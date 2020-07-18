@@ -1,5 +1,5 @@
 # LearnML
-Projects to understand ML better
+Projects to understand ML better, without framework
 
 - [x] anomaly_detection
 - [x] kmeans
